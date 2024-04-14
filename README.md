@@ -12,7 +12,7 @@ There are all CRUD operations. `Get`, `Post`, `Put`, `Patch` and `Delete` method
 3. Navigate to the base folder - `todoprj/`
 4. Install the requirements from `pip install -r requirements.txt`
 5. Open a new terminal and run `python manage.py runserver 0.0.0.0:8000`.
-6. In your browser, navigate to this url - http://localhost:8000/exchange_rates/
+6. In your browser, navigate to this url - http://localhost:8000/
 
 **Screenshots**
 
