@@ -9,7 +9,7 @@ There are all CRUD operations. `Get`, `Post`, `Put`, `Patch` and `Delete` method
 
 1. Clone the repository.
 2. Create virtual environment using `virtualenv`.
-3. Navigate to the base folder - `todoprj/`
+3. Navigate to the base folder - `todo/`
 4. Install the pienv shell from `pip install pipenv`
 5. Run `pipenv shell`
 5. Open a new terminal and run `python manage.py runserver 0.0.0.0:8000`.
